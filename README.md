@@ -28,7 +28,7 @@ I love **problem-solving** and am passionate about shaping the future of web dev
 
 ### 📊 GitHub Stats
 
-![Shahidul's GitHub Stats](https://camo.githubusercontent.com/dcd2bc2f96d1ad2829c9137b043d4a57fcf32c3027cd116ad325da420badf873/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d536861686964756c2d4b68616e323030342673686f775f69636f6e733d74727565267468656d653d7261646963616c)
+![Shahidul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahidul-Khan2004&show_icons=true&count_private=true&theme=radical&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahidul-Khan2004&layout=compact&theme=radical)
 
