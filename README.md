@@ -28,8 +28,6 @@ I love **problem-solving** and am passionate about shaping the future of web dev
 
 ### 📊 GitHub Stats
 
-![Shahidul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahidul-Khan2004&show_icons=true&count_private=true&theme=radical&cache_seconds=1800)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahidul-Khan2004&layout=compact&theme=radical)
 
 
